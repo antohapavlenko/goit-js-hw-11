@@ -80,9 +80,15 @@ input {
 
 .load-more {
   cursor: pointer;
-  padding: 5px;
-  margin: 10px 510px;
+  font-size: 24px;
+  padding: 10px;
+  
   background-color: #3a77fa;
   color: white;
   border: 0;
+  border-radius: 4px;
+}
+
+.wrapper-btn {
+  text-align: center;
 }
